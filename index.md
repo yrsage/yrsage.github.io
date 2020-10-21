@@ -1,6 +1,4 @@
-<div>
-<table border="0">
-  <tr>
+   <tr>
     <td width="100%">
       <h1>黄毅然</h1>
       <p><b>浙大宁波理工学院</b></p>
