@@ -8,15 +8,16 @@
     <script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
    </script>
-</head>
-<body>
-<h1>王一刚老师的课程</h1>
+
 </head>
 <body>
 <h1>信号与系统作业</h1>
 <br>
-<p>
-<p1><img src="signal.jpg" />本网页为黄毅然的作品，主页地址为：yrsage.github.io。</p1>
+<p>    
+<td width="25%">
+<img src="/signal.jpg" width="100%">
+</td>
+<p>本网页为黄毅然的作品，主页地址为：yrsage.github.io。</p1>
 </p>
 <h3>基本信号显示</h3>
 <p>
