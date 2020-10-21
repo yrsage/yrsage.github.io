@@ -17,7 +17,7 @@
 <td width="25%">
 <img src="/signal.jpg" width="25%">
 </td>
-<p>本网页为黄毅然的作品，主页地址为：yrsage.github.io。</p1>
+<p>本网页为黄毅然的作品，主页地址为：yrsage.github.io
 </p>
 <h3>基本信号显示</h3>
 <p>
