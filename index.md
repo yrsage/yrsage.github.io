@@ -1,16 +1,6 @@
 <html>
-<head>
-    <title>欢迎来到黄毅然的主页</title>
-    <link href="style.css"  rel="stylesheet" type="text/css" />
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-    <script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-   </script>
-
-</head>
 <body>
+<h1 class="project-name">黄毅然的网页</h1>
 <h1>信号与系统作业</h1>
 <br>
 <p>    
