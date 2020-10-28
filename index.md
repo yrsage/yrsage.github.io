@@ -1,7 +1,7 @@
 <html>
 <head>
     <h1 class="project-name">黄毅然的网页</h1>
-<head>
+</head>
 <body>
 <h1>信号与系统作业</h1>
 <br>
