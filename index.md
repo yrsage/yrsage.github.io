@@ -1,9 +1,11 @@
 <html>
+<head>
+    <h1 class="project-name">黄毅然的网页</h1>
+<head>
 <body>
-<h1 class="project-name">黄毅然的网页</h1>
 <h1>信号与系统作业</h1>
 <br>
-<p>    
+<p>
 <td width="25%">
 <img src="/signal.jpg" width="25%">
 </td>
