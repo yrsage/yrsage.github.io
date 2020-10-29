@@ -1,13 +1,3 @@
-<body>
-    <section class="page-header">
-      <h1 class="project-name">hyr的主页</h1>
-      <h2 class="project-tagline"></h2>
-      
-      
-    </section>
-
-    <section class="main-content">
-      <html>
 <head>
     <title>欢迎来到hyr的主页</title>
 </head>
